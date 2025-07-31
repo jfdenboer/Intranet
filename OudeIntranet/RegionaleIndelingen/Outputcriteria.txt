@@ -1,0 +1,10 @@
+Nieuwe outputcriteria zijn vastgesteld voor publicaties naar kleine gebieden. Denk bij kleine gebieden aan postcodes of vierkanten van 100 meter bij 100 meter.
+Deze criteria zijn zodanig geformuleerd dat rekening wordt gehouden met gelijktijdige publicatie van onderwerpen naar verschillende niet-hiërarchische gebieden.
+Deze outputcriteria gelden voor inwoners, huishoudens en woningen.
+Indien aan deze criteria wordt voldaan hoeft niet meer naar de CBS-beveiligingsregels te worden gekeken.
+Dit document is voor intern gebruik.
+ 
+
+Nadere informatie:
+- Beveiliging: Eric Schulte Nordholt
+- Geografie: Niek van Leeuwen

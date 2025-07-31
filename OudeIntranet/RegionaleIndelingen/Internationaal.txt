@@ -1,0 +1,21 @@
+Internationaal
+
+NUTS-indelingen
+
+De NUTS-indeling (Nomenclature des Unités Territoriales Statistiques) is de indeling in regio's die Eurostat hanteert. Voor Nederland is deze gebaseerd op de nationale indeling:
+
+NUTS 1 = Landsdelen
+
+NUTS 2 = Provincies
+
+NUTS 3 = COROP-gebieden
+
+Omdat de NUTS-indeling maar eens in de drie à vier jaar wordt gewijzigd, terwijl in Nederland bijna elk jaar gemeentelijke herindelingen plaatsvinden, loopt de NUTS-indeling niet synchroon met de Nederlandse indeling. Dat betekent dat leveringen aan Eurostat niet één op één gelijk zijn aan de nationale statistieken: voor de verschillen in de Nederlandse en Europese indelingen moet gecorrigeerd worden. Op deze pagina zijn hulpdocumenten te vinden om dat te doen: schematisch en per jaar wordt dit uitgelegd in een notitie. ​
+
+In 2024 is de nieuwste NUTS-indeling (NUTS2024) ingegaan. Dit houdt in dat de COROP-indeling van 2024 de komende jaren als NUTS3-indeling fungeert. Omdat er per 2025 geen gemeentelijke herindelingen hebben plaatsgevonden, geldt voor verslagjaar 2025 dezelfde indeling als in 2024. Voor de gemeenten van 2025 is de indeling naar de verschillende NUTS-regio's volgens de NUTS2024-indeling terug te vinden in dit schema.
+
+Voor collega's die met terugwerkende kracht voor voorgaande jaren data moeten leveren aan Eurostat volgens de NUTS2024-indeling, is deze volgtijdelijke tabel een handig hulpmiddel om gemeenten (vanaf 1981) om te coderen naar de NUTS2024-indeling. Let op: gevallen waarbij een gemeente gesplitst is en verdeeld over een aantal andere gemeenten, moeten apart behandeld worden.
+
+
+
+Als je nog vragen hebt, stuur ons een mail via RESCO@cbs.nl.
