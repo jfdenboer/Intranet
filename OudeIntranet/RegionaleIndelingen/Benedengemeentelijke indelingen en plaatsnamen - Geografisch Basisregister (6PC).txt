@@ -1,0 +1,26 @@
+Benedengemeentelijke indelingen en plaatsnamen
+Geografisch Basisregister (6PC) uitsluitend voor intern doeleinde.
+
+Het Geografisch Basisregister (GBR) is op 2 manieren ingedikt:
+
+Per postcode (6pc), huisnummer (zonder toevoegingen) en meest voorkomende gemeente-, wijk- en buurtcode (GWB-code).
+Deze versie is beschikbaar voor: 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 20091), 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 20202), 20213), 2022​, 2023​, 2024​.
+
+Per postcode (6pc) en meest voorkomende gemeente-, wijk- en buurtcode (GWB-code).​
+Deze versie is beschikbaar voor: 2000, 2001,2002, 2003, 2004, 2005, 2006, 2007, 2008, 20091), 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 20202), 20213), 20224), 202​​​3​, 2024​.
+
+De bestanden tot en met 2005 zijn in txt-formaat, van 2006 t/m 2019 in Access (.mdb) en met ingang van 2020 in CSV-formaat. Een tabel met gemeente-, wijk- en buurtcodes per combinatie van postcode-6 en huisnummer telt ruim 7 miljoen records, en is daarmee te groot om in Microsoft Excel te openen. De tabel is wel volledig in te lezen in verschillende andere programma’s, zoals Microsoft Access, Notepad ++, SPSS, R of Python.
+
+1) Let op: De bestanden voor 2009 betreffen (per juli 2010) gecorrigeerde bestanden. Als gevolg van een fout in de wijk-/buurtindeling van de gemeente Dordrecht (GM0505) in 2009 zijn alle records van deze gemeente gecorrigeerd.
+
+2) Let op: De bestanden voor 2020 betreffen (per 27 november 2020) gecorrigeerde bestanden. Een aantal ontbrekende postcodes zijn toegevoegd.
+
+3) Let op: De bestanden voor 2021 betreffen (per 7 juni 2022) aangevulde bestanden. Bij eerder gepubliceerde 600 huisnummers en 32 postcodes zijn naast de gemeentecode nu ook de buurtcodes toegevoegd. Reden van aanpassing is een eerder gemiste koppeling met coördinaten. Per 20 juni 2022 is de buurtcode van postcode 1601MB aangepast naar 03881001.
+
+ 4) Let op: Het bestand voor 2022 betreft (per 22 september 2022) een gecorrigeerd bestand. Enkele meerdere keer voorkomende postcodes zijn gecorrigeerd met de juiste dominante buurtcode.
+
+Om bestand te downloaden, kies Doel opslaan als.
+
+             
+
+Informatie: uitsluitend via inbox regstat
