@@ -1,0 +1,7 @@
+CBS gebruikt binnen StatLine uniforme regiocodes om data uit verschillende thema’s te koppelen. Regiocodes bestaan uit twee letters (afhankelijk van de indeling) gevolgd door regiocode met voorloopnullen.
+
+Voorbeeld:
+
+Gemeentecode Amsterdam "0363" wordt "GM0363".
+
+Een volledig overzicht van regionale indelingen en bijbehorende lettercodes is beschikbaar.
