@@ -1,0 +1,38 @@
+Contextpagina: Overige publicaties en toepassingen wijken en buurten
+
+Deze pagina biedt een overzicht van publicaties en toepassingen van wijken en buurten buiten de publicatie Kerncijfers Wijken en Buurten (KWB). Ook lees je hier over nieuwe publicaties en initiatieven die in ontwikkeling zijn.
+
+CBSinuwbuurt  
+De interactieve kaart CBSinuwbuurt (www.cbsinuwbuurt.nl) geeft je de mogelijkheid om in te zoomen op specifieke wijken, buurten en andere regio's. Hier vind je cijfers uit onder meer Kerncijfers Wijken en Buurten en Nabijheid voorzieningen.
+
+Wijk- en buurtcijfers op StatLine  
+Naast KWB zijn er andere CBS-publicaties op StatLine met wijk- en buurtcijfers:
+
+- Nabijheid voorzieningen: cijfers over gemiddelde afstanden van woonadressen naar voorzieningen zoals scholen en huisartsen.
+- Energieverbruik woningen: gemiddeld elektriciteits- en aardgasverbruik naar woningtype.
+- Personen met uitkeringen: aantallen en percentages van personen naar uitkeringstype.
+- Motorvoertuigen: aantallen voertuigen (personenauto’s, bedrijfsauto’s, motoren) naar o.a. brandstof en leeftijdsklasse.
+- Bodemgebruik: aantal hectares naar land-, watergebruik en gebruiksvorm.
+- Geregistreerde misdrijven: absolute en relatieve cijfers per type misdrijf.
+
+Wijk- en buurtkaart  
+De landelijke Wijk- en Buurtindeling (WBI) wordt jaarlijks gepubliceerd als wijk- en buurtkaart op de CBS-website. De kaart bevat grenzen, codes en namen en is geschikt voor gebruik in GIS-applicaties. Beschikbare jaren: 2012, 2013, 2014, 2015, 2016 en 2017.
+
+Nationaal Georegister  
+De WBI is ook beschikbaar als geoservice via het Nationaal Georegister. De geoservices kunnen direct worden gebruikt in GIS-applicaties en door app-ontwikkelaars, zoals CBSinuwbuurt. Op de site van het Nationaal Georegister kun je kaarten bekijken en statistische gegevens per regio en jaar opvragen via 'Statistiek per <regio> in <jaartal>'. Met het icoontje ‘i’ krijg je attribuutinformatie per geselecteerde regio.
+
+Vinex-wijken  
+Het Centrum voor Statistisch Onderzoek (CSO) heeft een afbakening van Vinex-wijken opgesteld op basis van de WBI voor de jaren 2014 t/m 2017. De afbakening voor 2014 is gebaseerd op onderzoek van het Planbureau voor de Leefomgeving; latere jaren zijn hierop gebaseerd. Een overzicht van Vinex-wijken en buurtcodes per jaar vind je in het overzicht 'GWB Vinex 2014–2017'.
+
+Publicaties van andere partijen  
+Externe publicaties die gebruikmaken van CBS Wijk- en Buurtindelingen en/of wijk- en buurtcijfers zijn onder andere:
+
+- Funda.nl: woningen zoeken verfijnd op buurten.
+- Stapelingsmonitor van KING (Vereniging Nederlandse Gemeenten): gebruik van regelingen en voorzieningen per wijk in het sociale domein.
+- Hoeveiligismijnwijk (Politie): interactieve kaart met aantallen delicten per wijk/buurt.
+- RTL Nieuws Buurtnieuws: publicaties gebaseerd op CBS Wijk- en Buurtindeling.
+- Buurtmonitor Integratie (Ministerie van Sociale Zaken en Werkgelegenheid): integratie-indicatoren per buurt.
+- Buurtmonitor van ABF Research B.V.: overzicht gemeenten die wijk- en buurtcijfers publiceren.
+
+Richtlijnen Wijk- en Buurtindeling (WBI)  
+Sinds 2014 zijn er door CBS, in samenwerking met gemeenten, richtlijnen opgesteld voor het maken van Wijk- en Buurtindelingen. Deze richtlijnen helpen gemeenten bij het zorgen voor stabiliteit over tijd en vergelijkbaarheid tussen gemeenten. De richtlijnen worden regelmatig aangevuld en gemeenten worden hierover per brief geïnformeerd.

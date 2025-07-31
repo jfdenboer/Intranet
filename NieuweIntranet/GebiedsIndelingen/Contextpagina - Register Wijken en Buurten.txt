@@ -1,0 +1,15 @@
+Register Wijken en Buurten
+ 
+
+Het wijk- en buurtregister bevat de namen en codes van de wijken en buurten in de jaren: 
+2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010,
+2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019​, 2020,
+2021, 2022, 2023​, 2024​, 2025​.
+
+Het is  een Access database in een zip-bestand. Om een bestand te downloaden, kies Opslaan als.
+
+Meer informatie over de Wijk- en Buurtindeling en over publicaties van wijk- en buurtcijfers kan worden gevonden in de werkruimte Wijken en buurten op intranet.
+
+ 
+
+Informatie: uitsluitend via inbox regstat

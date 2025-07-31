@@ -1,0 +1,19 @@
+# Contextpagina: Kerncijfers wijken en buurten
+
+Sinds 1995 publiceert het team Regio en Ruimte de tabel "Kerncijfers Wijken en Buurten" (KWB) op StatLine. Deze publicatie bevat cijfers over diverse thema's per wijk en buurt. De inhoud wordt grotendeels aangeleverd door andere teams binnen het CBS. Inmiddels publiceren verschillende van deze teams ook eigen StatLine-tabellen met wijk- en buurtcijfers of bereiden zij die voor.
+
+Op deze pagina vind je alle informatie die nodig is voor het samenstellen en publiceren van wijk- en buurtcijfers binnen het CBS. Daarnaast biedt deze pagina inzicht in het proces rondom KWB, zoals planning en een overzicht van aangeleverde input.
+
+## Publicaties Kerncijfers Wijken en Buurten
+
+De publicaties van de KWB zijn beschikbaar via StatLine.
+
+Vanwege technische beperkingen (maximaal aantal cellen in StatLine) worden de gegevens uit de KWB ook als Excel-bestanden aangeboden op de CBS-website. Dit biedt gebruikers de mogelijkheid om in één keer alle wijk- en buurtcijfers te downloaden.
+
+## Controles en kwaliteit
+
+Cijfers die worden aangeleverd voor opname in de KWB, moeten voldoen aan diverse controlecriteria. Deze controles worden uitgevoerd door het team Regio en Ruimte na ontvangst van de gegevens. Wanneer cijfers niet voldoen aan de kwaliteitseisen, vraagt het team om een nieuwe levering. Om vertraging te voorkomen, is het belangrijk dat teams voorafgaand aan levering hun data grondig controleren en eventuele fouten oplossen.
+
+## Service Level Agreements (SLA's)
+
+Met teams die data leveren voor de KWB zijn afspraken vastgelegd in SLA's. Deze overeenkomsten worden jaarlijks geëvalueerd om het proces soepel te laten verlopen en duidelijke verwachtingen en verantwoordelijkheden vast te leggen.

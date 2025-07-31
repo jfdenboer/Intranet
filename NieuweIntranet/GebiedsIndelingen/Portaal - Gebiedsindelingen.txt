@@ -1,0 +1,53 @@
+# Portaal: Gebiedsindelingen 
+
+Welkom bij het portaal Gebiedsindelingen. Op deze pagina vind je alle essentiële informatie over de gebiedsindelingen die het CBS gebruikt voor het produceren van regionale statistieken. Hieronder kun je direct doorklikken naar contextpagina’s met gedetailleerde beschrijvingen en bijbehorende bestanden:
+
+* [Postcodebestanden – Wijken en buurten]  
+  Actuele wijk- en buurtindelingen, inclusief registers vanaf 2001.
+
+* [Geografisch Basisregister (GBR, 6PC)]  
+  Koppelingen van postcodegebieden met gemeente-, wijk- en buurtcodes voor interne toepassingen.
+
+* [Postcodegebieden (4PC) – Postaal Wijkregister (PWR)]  
+  Vier-cijferige postcodegebieden met bijbehorende woonplaatsen en gemeenten voor intern gebruik.
+
+* [Gemeentelijke en bovengemeentelijke indelingen]  
+  Gemeentelijke wijzigingen, herindelingen, en bovengemeentelijke gebiedsindelingen vanaf 1830.
+
+* [Regionale kerncijfers Nederland (RKN)]  
+  Gemeentelijke kerncijfers beschikbaar in StatLine vanaf 1995.
+
+* [Regiocodes voor StatLine]  
+  Uniforme regiocodes gebruikt binnen StatLine voor diverse gebiedsindelingen.
+
+* [Kerncijfers wijken, buurten en postcodegebieden]  
+  Gedetailleerde cijfers per wijk en buurt, inclusief volgtijdelijke data en nabijheid van voorzieningen.
+
+* [Internationaal – NUTS-indelingen]  
+  Europese NUTS-indelingen en hulpdocumenten voor levering aan Eurostat.
+
+* [Outputcriteria voor kleine gebieden]  
+  Interne criteria voor publicaties naar kleine gebieden zoals postcodes en vierkanten van 100x100 meter.
+
+* [Vierkanten]  
+  [Moet nog geschreven worden]
+
+* [Bevolkingskernen]  
+  [Moet nog geschreven worden]
+
+* [Omgevingsdichtheid]  
+  [Moet nog geschreven worden]
+
+* [Register Wijken en Buurten]  
+  Overzicht van officiële namen en codes van alle wijken en buurten per verslagjaar.
+
+* [Indeling wijken en buurten]  
+  Landelijke coördinatie en jaarlijkse vaststelling van de Wijk- en Buurtindeling (WBI).
+
+* [Kerncijfers wijken en buurten]  
+  StatLine-publicatie met kerncijfers per wijk en buurt en bijbehorende Excel-downloads.
+
+* [Overige publicaties en toepassingen wijken en buurten]  
+  Aanvullende publicaties, toepassingen en externe initiatieven rond wijk- en buurtdata.
+
+Heb je vragen? Op elke contextpagina staat vermeld bij wie je terecht kunt.

@@ -1,0 +1,51 @@
+Contextpagina: Indeling wijken en buurten
+
+Alle gemeenten in Nederland hebben een indeling naar wijken en buurten. Vaak is dit door de gemeente vastgelegd in een verordening. Team Regio en Ruimte is verantwoordelijk voor de landelijke coördinatie van de Wijk- en Buurtindeling (WBI) en het CBS is een belangrijke leverancier van cijfers per wijk en buurt.
+
+Er is veel belangstelling voor informatie over wijken en buurten. De behoefte van gebruikers aan (laag)regionale informatie wordt ook groter. Zo krijgen gemeenten als gevolg van de verdere decentralisatie van rijkstaken een steeds belangrijkere positie met als gevolg een grotere statistische informatiebehoefte. Tegelijkertijd worden bestuurlijke eenheden steeds groter door het samenvoegen van gemeenten. Beleid wordt daardoor meer en meer gericht op onderdelen van gemeenten.
+
+Gemeenten kunnen wijzigingen jaarlijks vóór 1 mei doorgeven. SRR stelt daarna de nieuwe indeling officieel vast.
+
+Hieronder vind je informatie en bestanden van de Wijk- en Buurtindeling per jaar:
+
+Excel-bestanden  
+Via onderstaande links vind je Excel-bestanden met de gemeentelijke indeling naar wijken en buurten:
+
+Jaren beschikbaar: 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021*, 2022, 2023, 2024, 2025
+
+*Let op: Op 28-07-2021 is het bestand voor 2021 bijgewerkt: in Enkhuizen is wijkcode WK038899 gewijzigd naar WK038810 met de naam 'Buitengebied IJsselmeer en Markermeer', inclusief twee bijbehorende buurten. Tevens zijn twee naamscorrecties van buurten verwerkt.
+
+Per regio worden code, naam en gemeentenaam vermeld. Vanaf 2013 bevat het bestand ook:
+
+- Een indicator die wijzigingen aangeeft ten opzichte van het voorgaande jaar:
+  1: Geen wijziging in codering en afbakening (eventueel naamswijziging mogelijk).  
+  2: Codering gewijzigd, afbakening ongewijzigd (handmatige koppeling met vorig jaar vereist).  
+  3: Afbakening gewijzigd (mogelijk ook codering); cijfers niet direct vergelijkbaar met voorgaande jaren.
+
+Grenswijzigingen worden alleen als wijziging aangemerkt als deze minimaal circa 5 meter bedraagt.
+
+Ook wordt vanaf 2013 aangegeven hoeveel onderliggende regio’s er zijn per regio: buurten per wijk, wijken per gemeente, gemeenten per land.
+
+Selx-bestanden (voor StatLine-tabellen)  
+Wijken en buurten zijn momenteel niet opgenomen in de regiogenerator van StatLine. Voor het bouwen van StatLine-tabellen met wijk- en buurtgegevens zijn selx-bestanden beschikbaar:
+
+- Nederlandse versie beschikbaar voor jaren: 2010 t/m 2025  
+- Engelse versie beschikbaar voor jaren: 2020 t/m 2025  
+
+*Let op: Het bestand voor 2021 is op 28-07-2021 geüpdatet (zie toelichting Excel-bestanden).
+
+Deze selx-bestanden bevatten de officiële jaarlijkse Wijk- en Buurtindeling. Uitbreidingen met extra regio’s zijn in overleg met SRR mogelijk.
+
+Koppelbestanden  
+Om wijk- en buurtcijfers samen te stellen, biedt SRR verschillende koppelbestanden aan:
+
+SSB-componenten:  
+- VSLGWBJJJJTABVv: GWB-code per BAG-object vanaf 1999.  
+- NIETVSLGWBTABVv: zelfde structuur, maar voor objecten buiten BAG.  
+- GWBKENMERKENJJJJREFVv (vanaf 2013): referentieboek met wijzigingsindicator per wijk/buurt zoals hierboven beschreven.
+
+Geografisch Basisregister (GBR) (op intranet beschikbaar):  
+- Meest voorkomende GWB-code per combinatie van postcode (6PC) en huisnummer (zonder toevoeging).  
+- Meest voorkomende GWB-code per postcode (6PC).
+
+Let op: De postcode-huisnummerkoppeling is niet volledig nauwkeurig vanwege het ontbreken van huisnummer-toevoegingen.

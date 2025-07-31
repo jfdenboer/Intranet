@@ -1,0 +1,5 @@
+Het Postaal Wijkregister bevat alle vier-cijferige postcodegebieden (4PC) inclusief woonplaats- en gemeentenaam. Gebaseerd op de Basisregistratie Adressen en Gebouwen (BAG), aangevuld door systeem Vastgoed. Dit register is uitsluitend bedoeld voor intern gebruik. Een postcodegebied kan in meerdere gemeenten voorkomen.
+
+Beschikbaar voor jaren: 1997-2025 (Access-database in zip-formaat).
+
+Contact: inbox regstat

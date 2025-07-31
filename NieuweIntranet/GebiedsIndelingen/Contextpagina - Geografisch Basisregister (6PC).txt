@@ -1,0 +1,29 @@
+Het Geografisch Basisregister (GBR) bevat koppelingen van postcode (6 cijfers), huisnummer en gemeentelijke, wijk- en buurtcodes (GWB-codes). Het GBR is uitsluitend bedoeld voor intern gebruik.
+
+Bestanden:
+
+Postcode (6PC), huisnummer (zonder toevoeging), GWB-code: beschikbaar voor 2000-2024
+
+Postcode (6PC), meest voorkomende GWB-code: beschikbaar voor 2000-2024
+
+Formaten:
+
+T/m 2005: txt
+
+2006-2019: Access (.mdb)
+
+Vanaf 2020: CSV
+
+Let op: Correcties:
+
+2009: Dordrecht (juli 2010)
+
+2020: Ontbrekende postcodes toegevoegd (27 november 2020)
+
+2021: Toevoeging buurtcodes aan postcodes en huisnummers (7 juni 2022)
+
+2022: Correctie meerdere voorkomende postcodes (22 september 2022)
+
+Bestanden zijn groot (7 miljoen records), open ze met Access, Notepad++, SPSS, R of Python.
+
+Contact: inbox regstat
