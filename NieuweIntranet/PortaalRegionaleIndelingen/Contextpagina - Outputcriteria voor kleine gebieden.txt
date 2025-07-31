@@ -1,4 +1,0 @@
-Nieuwe outputcriteria gelden voor publicaties over kleine gebieden (postcodes, 100x100 meter vierkanten). Bij toepassing hiervan is verdere toetsing aan CBS-beveiligingsregels niet nodig. Criteria gelden voor inwoners, huishoudens en woningen.
-
-Dit document is uitsluitend voor intern gebruik.
-
