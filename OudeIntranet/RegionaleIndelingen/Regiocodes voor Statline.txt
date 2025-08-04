@@ -1,7 +1,0 @@
-Regiocodes voor StatLine
-
-Het CBS wil binnen StatLine uniforme coderingen gebruiken voor de verschillende regionale indelingen, zodat data uit verschillende thema's met elkaar te koppelen zijn. Hiervoor is het onder andere noodzakelijk dat in de aangeleverde bestanden met data de regiocodes (mèt voorloopnullen) worden voorafgegaan door twee extra letters, die per regionale indeling vastliggen.
-
-Ter voorbeeld, gemeentecodes dienen altijd voorafgegaan te worden door 'GM'. De gemeente Amsterdam met code '0363' krijgt binnen StatLine dus de regiocode 'GM0363'.
-
-Een volledig overzicht van alle regionale indelingen en de bijbehorende vastgestelde twee letters is hier te vinden.
